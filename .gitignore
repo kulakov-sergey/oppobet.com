@@ -1,0 +1,6 @@
+/target/
+/.allure/
+/.idea/
+/allure-results/
+/build/
+/oppabetcom.iml
